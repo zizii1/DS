@@ -1,0 +1,10 @@
+db.txt
+dict.txt
+private.key
+private.pem
+public.pem
+selfsigned.crt
+hash_256.txt
+hash_bcrypt.txt
+.vs
+__pycache__
